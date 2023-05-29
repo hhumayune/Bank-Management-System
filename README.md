@@ -22,5 +22,5 @@ Here is a brief specification for the working part of the program:
 -![Main Menu](https://github.com/hhumayune/Bank-Management-System/blob/main/Display%20by%20Acc%23.png)
 # Deposit Simulation
 -![Deposit](https://github.com/hhumayune/Bank-Management-System/blob/main/Deposit.png)
-# withdraw Simulation
+# Withdraw Simulation
 -![Withdraw](https://github.com/hhumayune/Bank-Management-System/blob/main/Withdraw.png)
