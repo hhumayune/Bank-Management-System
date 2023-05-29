@@ -20,7 +20,7 @@ Here is a brief specification for the working part of the program:
 ## Screenshots
 # Main Menu
 -![Main Menu](https://github.com/hhumayune/Bank-Management-System/blob/main/Display%20by%20Acc%23.png)
-# Station List
+# Deposit Simulation
 -![Deposit](https://github.com/hhumayune/Bank-Management-System/blob/main/Deposit.png)
-# Simulation
+# withdraw Simulation
 -![Withdraw](https://github.com/hhumayune/Bank-Management-System/blob/main/Withdraw.png)
